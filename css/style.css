@@ -77,8 +77,9 @@ body {
 
 #showcase .container h1 {
   text-align: center;
-  padding-top: 260px;
+  padding-top: 200px;
   color: #bf8040;
+  line-height: 1.6;
 }
 
 .container p {
@@ -87,7 +88,7 @@ body {
 }
 
 #history-section {
-  height: 400px;
+  height: 500px;
 }
 
 #history-section .hotel-img {
@@ -228,6 +229,7 @@ body {
 
 #testimonials .heading {
   margin-bottom: 40px;
+  line-height: 1.2;
 }
 
 #testimonials h2 {
