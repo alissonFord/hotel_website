@@ -1,0 +1,36 @@
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 5px;
+}
+
+#history-section .hotel-img {
+    display: none;
+}
+
+#history-section .hotel-history {
+    width: 100%;
+    text-align: center;
+}
+
+#activities .box {
+    float:none;
+    width: 100%;
+}
+
+#about .about-text, #about .about-img {
+    float: none;
+    width: 100%;
+}
+
+#contact .box{
+    float:none;
+    width: 100%;
+}

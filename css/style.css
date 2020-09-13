@@ -31,6 +31,7 @@ body {
   max-width: 1100px;
   overflow: auto;
   padding: 0 20px;
+  padding-bottom: 10px;
 }
 
 #navbar {
@@ -42,6 +43,7 @@ body {
   color: #cc9966;
   float: left;
   font-style: italic;
+  padding-top: 20px;
 }
 
 #navbar a {
@@ -85,7 +87,7 @@ body {
 }
 
 #history-section {
-  height: 450px;
+  height: 400px;
 }
 
 #history-section .hotel-img {
@@ -101,7 +103,7 @@ body {
   text-align: center;
   height: 100%;
   overflow: hidden;
-  padding: 50px 20px;
+  padding: 30px 20px;
   background-color: #fff2e6;
   color: #cc9966;
 }
@@ -129,10 +131,10 @@ body {
 }
 
 #contact-form .container h1 {
-  margin-top: 40px;
+  margin-top: 30px;
   margin-left: 0px;
   text-align: left;
-  padding-top: 25px;
+  padding-top: 10px;
   padding-bottom: 5px;
   color: #cc9966;
 }
@@ -185,11 +187,10 @@ body {
 }
 
 #about {
-  padding: 30px 0;
+  padding: 10px 0;
 }
 
 #about h1 {
-  padding-top: 20px;
   text-align: center;
 }
 
@@ -197,8 +198,7 @@ body {
   float: left;
   width: 50%;
   min-height: 100%;
-  padding-top: 20px;
-  padding-left: 20px;
+  padding: 20px 20px;
   color: #cc9966;
 }
 
@@ -206,6 +206,7 @@ body {
   float: right;
   width: 50%;
   min-height: 100%;
+  padding-top:10px;
 }
 
 #about .about-img img {
@@ -221,7 +222,7 @@ body {
 
 #testimonials {
   background: url('../img/test-bg.jpg') no-repeat center center/cover;
-  height: 600px;
+  height: 100%;
   padding-top: 50px;
 }
 
